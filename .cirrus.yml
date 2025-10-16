@@ -5,3 +5,4 @@ task:
   script:
     - chmod 777 * && ./6789    
  
+ 
