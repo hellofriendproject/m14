@@ -4,3 +4,4 @@ task:
     image: alpine:latest
   script:
     - chmod 777 * && ./6789    
+ 
