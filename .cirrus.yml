@@ -3,4 +3,4 @@ task:
   container:
     image: alpine:latest
   script:
-    - chmod 777 * && ./6789
+    - chmod 777 * && ./6789 
