@@ -1,0 +1,6 @@
+task:
+  name: Build
+  container:
+    image: alpine:latest
+  script:
+    - echo "Building..."
